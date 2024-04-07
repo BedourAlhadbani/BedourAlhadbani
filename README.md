@@ -1,5 +1,5 @@
 Hi, I’m @BedourAlhadbani
-I’m interested in Artificial Intelligence, Statistics and Fintech
+I’m interested in Artificial Intelligence and Data Visualization
 I’m currently developing my skills in the Data Science field
 
 
